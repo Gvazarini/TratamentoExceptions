@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dbf3d35f-9983-448a-b9a0-26600ff515d2": {
+      "ProjectGuid": "dbf3d35f-9983-448a-b9a0-26600ff515d2",
+      "DisplayName": "Exception1",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
